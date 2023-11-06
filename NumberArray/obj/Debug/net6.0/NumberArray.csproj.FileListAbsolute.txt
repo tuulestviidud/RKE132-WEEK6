@@ -1,0 +1,14 @@
+C:\Users\kasutaja.T470-28EXB\source\repos\Week6StringsAndArrays\NumberArray\bin\Debug\net6.0\NumberArray.exe
+C:\Users\kasutaja.T470-28EXB\source\repos\Week6StringsAndArrays\NumberArray\bin\Debug\net6.0\NumberArray.deps.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Week6StringsAndArrays\NumberArray\bin\Debug\net6.0\NumberArray.runtimeconfig.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Week6StringsAndArrays\NumberArray\bin\Debug\net6.0\NumberArray.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week6StringsAndArrays\NumberArray\bin\Debug\net6.0\NumberArray.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja.T470-28EXB\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.AssemblyInfoInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.AssemblyInfo.cs
+C:\Users\kasutaja.T470-28EXB\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net6.0\refint\NumberArray.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.genruntimeconfig.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net6.0\ref\NumberArray.dll
